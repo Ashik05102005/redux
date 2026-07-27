@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { useDispatch , useSelector } from 'react-redux'
 import { increment , decrement , incrementByScore , reset } from './redux/ScoreReducer'
 import { datainput } from './redux/inputReducer'
+import Page from './Page'
 
 function App() {
   const [inputData , setInputData] = useState('')
@@ -17,6 +18,9 @@ function App() {
   }
   return (
     <>
+
+    <Page/>
+
     <div className='flex flex-col border items-center my-10 mx-2 gap-9'>
       <div className='text-9xl'>
           {store}
@@ -58,6 +62,10 @@ function App() {
         {data.map((x)=><h1>{x}</h1>)}
       </div>
     </div>
+
+
+
+    
       
     </>
   )
