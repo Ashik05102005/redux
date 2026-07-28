@@ -2,7 +2,7 @@ import {createStore} from 'redux';
 
 const initialState ={
     count: 0 ,
-    input:''
+    input:'' 
 }
 
 function counterReducer(state=initialState,action){

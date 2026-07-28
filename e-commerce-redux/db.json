@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Wireless Headphones",
       "price": 2999,
       "category": "Electronics",
@@ -9,7 +9,7 @@
       "image": "https://picsum.photos/seed/product1/300/300"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Gaming Mouse",
       "price": 1499,
       "category": "Electronics",
@@ -17,7 +17,7 @@
       "image": "https://picsum.photos/seed/product2/300/300"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Mechanical Keyboard",
       "price": 3999,
       "category": "Electronics",
@@ -25,7 +25,7 @@
       "image": "https://picsum.photos/seed/product3/300/300"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Running Shoes",
       "price": 2499,
       "category": "Fashion",
@@ -33,7 +33,7 @@
       "image": "https://picsum.photos/seed/product4/300/300"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Leather Wallet",
       "price": 899,
       "category": "Fashion",
@@ -41,7 +41,7 @@
       "image": "https://picsum.photos/seed/product5/300/300"
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Smart Watch",
       "price": 5999,
       "category": "Electronics",
@@ -49,7 +49,7 @@
       "image": "https://picsum.photos/seed/product6/300/300"
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "Bluetooth Speaker",
       "price": 2199,
       "category": "Electronics",
@@ -57,7 +57,7 @@
       "image": "https://picsum.photos/seed/product7/300/300"
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "Backpack",
       "price": 1799,
       "category": "Accessories",
@@ -65,15 +65,15 @@
       "image": "https://picsum.photos/seed/product8/300/300"
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Coffee Mug",
       "price": 399,
       "category": "Home",
-      "rating": 4.0,
+      "rating": 4,
       "image": "https://picsum.photos/seed/product9/300/300"
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "Office Chair",
       "price": 7499,
       "category": "Furniture",
@@ -81,7 +81,7 @@
       "image": "https://picsum.photos/seed/product10/300/300"
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "Laptop Stand",
       "price": 1299,
       "category": "Accessories",
@@ -89,7 +89,7 @@
       "image": "https://picsum.photos/seed/product11/300/300"
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "Monitor",
       "price": 12499,
       "category": "Electronics",
@@ -97,7 +97,7 @@
       "image": "https://picsum.photos/seed/product12/300/300"
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "Yoga Mat",
       "price": 999,
       "category": "Fitness",
@@ -105,7 +105,7 @@
       "image": "https://picsum.photos/seed/product13/300/300"
     },
     {
-      "id": 14,
+      "id": "14",
       "title": "Water Bottle",
       "price": 499,
       "category": "Fitness",
@@ -113,7 +113,7 @@
       "image": "https://picsum.photos/seed/product14/300/300"
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "Sunglasses",
       "price": 1599,
       "category": "Fashion",
@@ -121,7 +121,7 @@
       "image": "https://picsum.photos/seed/product15/300/300"
     },
     {
-      "id": 16,
+      "id": "16",
       "title": "Table Lamp",
       "price": 1199,
       "category": "Home",
@@ -129,7 +129,7 @@
       "image": "https://picsum.photos/seed/product16/300/300"
     },
     {
-      "id": 17,
+      "id": "17",
       "title": "USB Hub",
       "price": 799,
       "category": "Electronics",
@@ -137,7 +137,7 @@
       "image": "https://picsum.photos/seed/product17/300/300"
     },
     {
-      "id": 18,
+      "id": "18",
       "title": "Travel Bag",
       "price": 2799,
       "category": "Accessories",
@@ -145,7 +145,7 @@
       "image": "https://picsum.photos/seed/product18/300/300"
     },
     {
-      "id": 19,
+      "id": "19",
       "title": "Wireless Charger",
       "price": 1399,
       "category": "Electronics",
@@ -153,12 +153,146 @@
       "image": "https://picsum.photos/seed/product19/300/300"
     },
     {
-      "id": 20,
+      "id": "20",
       "title": "Desk Organizer",
       "price": 699,
       "category": "Office",
       "rating": 4.1,
       "image": "https://picsum.photos/seed/product20/300/300"
+    },
+    {
+      "title": "dffghj",
+      "category": "dfghj",
+      "price": "522",
+      "image": "ftgyhjk",
+      "id": "0GsbHW7c1ug"
+    },
+    {
+      "title": "Anuu",
+      "category": "Phychoo",
+      "price": "494",
+      "image": "src\\assets\\gallery10.jpg",
+      "id": "5AkT85DIkB8"
+    },
+    {
+      "title": "hujikl;",
+      "category": "huiopl;[",
+      "price": "85",
+      "image": "rtyui",
+      "id": "MQL5Oky5tHI"
+    },
+    {
+      "title": "ghj",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "tTb-u5_Skwc"
+    },
+    {
+      "title": "hghjkl",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "DbWeyMUNjwM"
+    },
+    {
+      "title": "sadferw",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "kugXS3dsukY"
+    },
+    {
+      "title": "hwloo",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "Tbn7ZkDWjC0"
+    },
+    {
+      "title": "hellooo",
+      "category": "hiii",
+      "price": "522",
+      "image": "452",
+      "id": "oGIAFW5ufuY"
+    },
+    {
+      "title": "sadfsbgd",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "5sB-r6XkdnU"
+    },
+    {
+      "title": "",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "KZfzHU-Jf70"
+    },
+    {
+      "title": "",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "C-uTOC1Y-ho"
+    },
+    {
+      "title": "",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "s9rVnmrZ59U"
+    },
+    {
+      "title": "",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "FgAXjTfp7_U"
+    },
+    {
+      "title": "",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "dYmV7h7zpQM"
+    },
+    {
+      "title": "",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "x67e_iQ64vE"
+    },
+    {
+      "title": "",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "46PJQdahfp4"
+    },
+    {
+      "title": "",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "_iaIM6cK2Ik"
+    },
+    {
+      "title": "",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "luc2a2hZGR0"
+    },
+    {
+      "title": "wdahtyfmgj",
+      "category": "",
+      "price": "",
+      "image": "",
+      "id": "wZLW3zE52mk"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
