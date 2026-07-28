@@ -15,13 +15,6 @@ export default function Form() {
         setInput(prev=>({...prev ,[e.target.name] : e.target.value }))
         // console.log(input)
     }
-    const submitHandler = (e)=>{
-        e.preventDefault();
-        console.log(input)
-        setInput(initialState);
-        mutation.mutate(input);
-
-    }
     const queryClient = useQueryClient() ;
     const mutation = useMutation({
         mutationFn : pushProducts,
@@ -31,9 +24,16 @@ export default function Form() {
                 queryKey : ["products"]
             })
         }
-
+        
     })
     
+    const submitHandler = (e)=>{
+        e.preventDefault();
+        console.log(input)
+        setInput(initialState);
+        mutation.mutate(input);
+
+    }
 
   return (
     <div className='min-h-screen'>
