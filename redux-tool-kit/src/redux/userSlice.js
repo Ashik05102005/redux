@@ -16,7 +16,7 @@ const userSlice = createSlice({
         .addCase(fetchUser.pending , (state)=>{
             state.loading = true
         })
-        .addCase(fetchUser.fulfilled , (state , action)=>{
+        .97(fetchUser.fulfilled , (state , action)=>{
             state.loading = false
             state.users = action.payload
         })

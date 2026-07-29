@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "brand": "Dell",
+      "price": 55000,
+      "stock": 12
+    },
+    {
+      "id": "2",
+      "name": "Phone",
+      "brand": "Samsung",
+      "price": 25000,
+      "stock": 30
+    },
+    {
+      "id": "3",
+      "name": "Headphones",
+      "brand": "Sony",
+      "price": 2000,
+      "stock": 50
+    },
+    {
+      "id": "4",
+      "name": "Keyboard",
+      "brand": "Logitech",
+      "price": 1500,
+      "stock": 20
+    },
+    {
+      "id": "5",
+      "name": "Monitor",
+      "brand": "LG",
+      "price": 12000,
+      "stock": 8
+    },
+    {
+      "name": "ashiki",
+      "brand": "sdafsghd",
+      "price": "75",
+      "stock": "2",
+      "id": "ByvHQN-A-HM"
+    },
+    {
+      "name": "sdafsgd",
+      "brand": "wetr",
+      "price": "786",
+      "stock": "2",
+      "id": "lCyrLraTW9Y"
+    },
+    {
+      "name": "Iphone",
+      "brand": "apple",
+      "price": "89999",
+      "stock": "10",
+      "id": "CW4QbdcJxVI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
